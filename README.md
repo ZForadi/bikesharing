@@ -108,11 +108,11 @@ Most female riders are also subscribers and have the most rides on Thursday (88,
 
 
 ## Summary 
-In summary, in August 2019, most rides were by male subscribers. Thursdays at 6:00pm had the most rides for female and male subscribers. While unkown genders did not have has many rides, it can be presumed they make up a decent amount of leisurely rides (and make up most of the one-time customers). 
+In summary, in August 2019, most rides were by male subscribers. Thursdays at 6:00pm had the most rides for female and male subscribers. While unkown genders did not have as many rides, it can be presumed they make up a decent amount of leisurely rides (and make up most of the one-time customers). 
 
 Overall this data shows that the Citibike service was used frequently in August and are great for both commuting between areas (anyday during the week - but especially during peak rush hour times) and are also a great way to travel and spend leisurely time. There are far more subscribers than one-time users which shows there is a commitment to the service. This would be a great addition to Des Moines, Iowa.
 
-A few addiitonal visualizations could be created for future analysis. A few suggestions are below:
+A few additional visualizations could be created for future analysis. A few suggestions are below:
 
 * The number of rides stopping and ending at different Stations (to further analyze which areas in the city draw the most rides) - perhaps this can be an indication of where initial bike stations should be placed in Des Moines, Iowa. This can possibly be shown as a map or bar graph.
 
